@@ -1,0 +1,1 @@
+import{o as n,c as s,a}from"./app.2a11843f.js";const p='{"title":"useCrudSchemas","description":"","frontmatter":{},"headers":[{"level":2,"title":"用法","slug":"用法"}],"relativePath":"hooks/useCrudSchemas.md","lastUpdated":1650959713642}',t={},o=a('',7);t.render=function(a,p,t,e,c,l){return n(),s("div",null,[o])};export default t;export{p as __pageData};
